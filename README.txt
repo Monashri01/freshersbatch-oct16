@@ -1,4 +1,4 @@
-Assignments Folder
+ASSIGNMENTS FOLDER
 
 Git & Github
 
