@@ -1,1 +1,1 @@
-Java demo 1..!
+java demo 1
